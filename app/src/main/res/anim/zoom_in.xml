@@ -1,0 +1,12 @@
+<scale
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="4000"
+    android:fromXScale=".33"
+    android:fromYScale=".33"
+
+    android:toXScale="1.35"
+    android:toYScale="1.35"
+
+    android:fillAfter="true">
+
+</scale>
